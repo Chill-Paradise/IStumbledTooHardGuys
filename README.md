@@ -3,3 +3,5 @@ IStumbledTooHardGuys (o anche chiamato ISTHG) e una mod per Stumble Guys dove pu
 
 ## Come installare
 Non disponibile
+
+[Clicca qui per tornare alla home page](https://github.com/Chill-Paradise)
