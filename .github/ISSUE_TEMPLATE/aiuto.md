@@ -1,10 +1,10 @@
 ---
 name: Aiuto
-about: 'Descrivi qui sotto il tuo problema:'
+about: Chiedi alla community un problema e la risolviamo insieme
 title: ''
 labels: ''
 assignees: JustKleo
 
 ---
 
-
+Ho un problema,
